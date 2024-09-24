@@ -5,3 +5,5 @@ A game of chance that allows the user to input the amount and target row for inv
 This game is written with JavaScript.
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+
+![Screenshot 2024-09-24 225536](https://github.com/user-attachments/assets/1b5ca851-c98a-4428-9c65-1c76f0b71fe9)
